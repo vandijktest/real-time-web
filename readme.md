@@ -27,5 +27,3 @@ In the first and second week you will receive oral feedback on your assignments.
 
 Rubric (in Dutch) 
 ![alt text](rubric.png "Rubric")
-
-> If you're seeing this message on a forked repo, it means one of our students hasn't changed the description yet 😈
